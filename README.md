@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
   <a href="https://stackoverflow.com/users/24962561/felipe-feitosa-braga" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a> 
-  
-  
-
- 
 </div>
+
+
